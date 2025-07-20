@@ -222,6 +222,30 @@ main section{
     .about{
         padding: 130px 50px;
     }
+    .banner{
+        flex-direction: column;
+        margin: 30px;
+    }
+    .button-2{
+        /* margin-bottom: 10px; */
+    }
+    .banner-img img{
+        width: 100%;
+    }
+    .head-part{
+        /* background-image: none; */
+        background-image: url('../images/header_bg.png');
+        background-position: bottom;
+    }
+    .navbar{
+        flex-direction: column;
+    }
+    .navbar ul{
+        flex-direction: column;
+    }
+    .navbar ul li{
+        margin-bottom: 30px;
+    }
 }
 
 
