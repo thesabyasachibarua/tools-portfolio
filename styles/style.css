@@ -226,8 +226,8 @@ main section{
         flex-direction: column;
         margin: 30px;
     }
-    .button-2{
-        /* margin-bottom: 10px; */
+    .button-2 button{
+        margin-bottom: 20px;
     }
     .banner-img img{
         width: 100%;
@@ -239,6 +239,7 @@ main section{
     }
     .navbar{
         flex-direction: column;
+        margin: 0;
     }
     .navbar ul{
         flex-direction: column;
